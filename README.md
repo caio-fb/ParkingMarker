@@ -9,7 +9,7 @@ Este comando vai iniciar a instalação de todas as dependências necessárias/u
 E em seguida digite:
 npm start
 
-## Algumas tecnlogias usadas:
+## Algumas tecnologias usadas:
 #### - Node.js
 #### - Nodemon
 #### - Handlebars
